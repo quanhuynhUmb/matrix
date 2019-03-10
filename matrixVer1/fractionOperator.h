@@ -8,7 +8,7 @@
 #include <iomanip> 
 #include <string>
 #define FLT_EPSILON (float)1.19209e-07
-#define ulong unsigned long
+#define ulong long
 using namespace std;
 class Fraction
 {
